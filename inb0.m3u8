@@ -1,0 +1,305 @@
+#EXTM3U
+
+#EXTINF: -1,INSERT
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+
+#EXTINF: -1,ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u8
+
+#EXTINF: -1,afn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505809.m3u8
+
+#EXTINF: -1,AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505810.m3u8
+
+#EXTINF: -1,BBC EARTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505812.m3u8
+
+#EXTINF: -1,BBC lifestyle
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505813.m3u8
+
+#EXTINF: -1,SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505814.m3u8
+
+#EXTINF: -1,SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505815.m3u8
+
+#EXTINF: -1,BTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505816.m3u8
+
+#EXTINF: -1,BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
+
+#EXTINF: -1,CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505818.m3u8
+
+#EXTINF: -1,CELESTIAL MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505819.m3u8
+
+#EXTINF: -1,cna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505820.m3u8
+
+#EXTINF: -1,CinemaWorld
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505821.m3u8
+
+#EXTINF: -1,CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
+
+#EXTINF: -1,CNN Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505824.m3u8
+
+#EXTINF: -1,CRIME+INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505825.m3u8
+
+#EXTINF: -1,DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505826.m3u8
+
+#EXTINF: -1,Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505827.m3u8
+
+#EXTINF: -1,Dreamwork
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505829.m3u8
+
+#EXTINF: -1,dunia anak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505830.m3u8
+
+#EXTINF: -1,FLiK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
+
+#EXTINF: -1,GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
+
+#EXTINF: -1,GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505835.m3u8
+
+#EXTINF: -1,HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
+
+#EXTINF: -1,HBO HiTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
+
+#EXTINF: -1,HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505841.m3u8
+
+#EXTINF: -1,HoRee!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505844.m3u8
+
+#EXTINF: -1,JAVA Overland
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505845.m3u8
+
+#EXTINF: -1,imc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
+
+#EXTINF: -1,INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505849.m3u8
+
+#EXTINF: -1,MNC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505855.m3u8
+
+#EXTINF: -1,moji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505856.m3u8
+
+#EXTINF: -1,MQTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505857.m3u8
+
+#EXTINF: -1,MDTV/NET.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505860.m3u8
+
+#EXTINF: -1,nick jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505861.m3u8
+
+#EXTINF: -1,nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505862.m3u8
+
+#EXTINF: -1,PRAMBORS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505864.m3u8
+
+#EXTINF: -1,rctv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505865.m3u8
+
+#EXTINF: -1,RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505867.m3u8
+
+#EXTINF: -1,ROCK Entertainment
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505868.m3u8
+
+#EXTINF: -1,rodja tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505869.m3u8
+
+#EXTINF: -1,Smithsonian CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505871.m3u8
+
+#EXTINF: -1,TRANS7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505875.m3u8
+
+#EXTINF: -1,TRANSTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505876.m3u8
+
+#EXTINF: -1,TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505877.m3u8
+
+#EXTINF: -1,tvN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505881.m3u8
+
+#EXTINF: -1,ZEEBIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505884.m3u8
+
+#EXTINF: -1,TV5MONDE INFO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505896.m3u8
+
+#EXTINF: -1,CNBC INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505823.m3u8
+
+#EXTINF: -1,DUNIA LAIN
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505831.m3u8
+
+#EXTINF: -1,HBO family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
+
+#EXTINF: -1,HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
+
+#EXTINF: -1,HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505840.m3u8
+
+#EXTINF: -1,HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505842.m3u8
+
+#EXTINF: -1,SINDONEWS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505846.m3u8
+
+#EXTINF: -1,Fun pLaNeT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505848.m3u8
+
+#EXTINF: -1,KOMPAS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505851.m3u8
+
+#EXTINF: -1,
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505852.m3u8
+
+#EXTINF: -1,METRO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505853.m3u8
+
+#EXTINF: -1,thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505873.m3u8
