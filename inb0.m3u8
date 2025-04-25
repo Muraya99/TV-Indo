@@ -58,12 +58,12 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505860.m3u
 #EXTINF:0,iNews
 #EXTVLCOPT:
 #EXTGRP:unsorted
-http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:0,INSERT
 #EXTVLCOPT:
 #EXTGRP:unsorted
-http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
 #EXTINF:0,DUNIA LAIN
 #EXTVLCOPT:
