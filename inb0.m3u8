@@ -294,6 +294,9 @@ http://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 #EXTINF:-1,Animax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 
+#EXTINF:-1,DisneyXD
+http://fortv.cc:8080/live/cQnq6G/652882/75621.m3u8
+
 #EXTINF:-1,Makkah TV
 http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
@@ -430,6 +433,12 @@ http://opplex.ch:8080/live/10071975/10071975/348204.m3u8
 
 #EXTINF:-1,Fight Sports
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+#EXTINF:-1,FS1
+http://fortv.cc:8080/live/cQnq6G/652882/46792.m3u8
+
+#EXTINF:-1,FS2
+http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
 
 #EXTINF:-1,HorizonSports
 https://jmp2.uk/sam-ITBA1500002UB.m3u8
