@@ -7,22 +7,22 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505865.m3u8
 
 #EXTINF: -1,RCTI
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505867.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351023.m3u8
 
 #EXTINF:-1,SCTV
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #EXTINF: -1,GTV
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505835.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350954.m3u8
 
 #EXTINF: -1,BTV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505816.m3u8
 
 #EXTINF: -1,INDOSIAR
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505849.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350972.m3u8
 
 #EXTINF: -1,MNC TV
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505855.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350996.m3u8
 
 #EXTINF:-1,TVOne
 http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
@@ -84,6 +84,9 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 #EXTINF:-1,K+
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
+#EXTINF:-1,ONE
+http://opplex.ch:8080/live/10071975/10071975/351033.m3u8
+
 #EXTINF:-1,tvN
 http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
 
@@ -129,6 +132,12 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505812.m3u
 #EXTINF: -1,BBC lifestyle
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505813.m3u8
 
+#EXTINF: -1,FASHION TV
+http://opplex.ch:8080/live/10071975/10071975/350945.m3u8
+
+#EXTINF: -1,Lifetime
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
+
 #EXTINF: -1,HISTORY
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505841.m3u8
 
@@ -167,6 +176,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF: -1,ROCK Entertainment
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505868.m3u8
+
+#EXTINF:-1,ROCK ACTION
+http://opplex.ch:8080/live/10071975/10071975/351025.m3u8
 
 #EXTINF:-1,My Cinema
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
@@ -225,6 +237,12 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505821.m3u
 #EXTINF: -1,HITS
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505842.m3u8
 
+#EXTINF: -1,HITS MOVIES
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+
+#EXTINF: -1,Warner TV
+http://opplex.ch:8080/live/10071975/10071975/351059.m3u8
+
 #EXTINF:-1,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -274,10 +292,9 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 http://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 
 #EXTINF:-1,Animax
-http://filex.tv:8080/live/ zulfikarsh01/000576/302204.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 
 #EXTINF:-1,Makkah TV
-
 http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 #EXTINF:-1,Tawaf TV
@@ -380,9 +397,11 @@ https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
 #EXTINF:-1,TV Okey
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-
 #EXTINF:-1,TVRI Sport
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
+
+#EXTINF: -1,true PREMIERFOOTBALL 1
+http://opplex.ch:8080/live/10071975/10071975/350993.m3u8
 
 #EXTINF: -1,SPOTV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505814.m3u8
@@ -399,8 +418,18 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTINF:-1,DubaiSports 3	
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
-#EXTINF:-1,Fight Network
-http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://opplex.ch:8080/live/10071975/10071975/388709.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
+
+#EXTINF:-1,beIN SPORTS 2
+http://opplex.ch:8080/live/10071975/10071975/388710.m3u8
+
+#EXTINF:-1,beIN SPORTS 3
+http://opplex.ch:8080/live/10071975/10071975/348204.m3u8
+
+#EXTINF:-1,
+http://kd112.secsoc.cc:2052/live/play/VTFGUVNuRlVhak5DY0cxM2RETTRkbE0zWkVoUmFVMWtPR2xLSzNaeWRqRkZla0o1VEdGV09UQnlRVDA9/341538
 
 #EXTINF:-1,Fight Sports
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
