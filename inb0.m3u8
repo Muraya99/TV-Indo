@@ -7,7 +7,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505865.m3u8
 
 #EXTINF: -1,RCTI
-http://opplex.ch:8080/live/10071975/10071975/351023.m3u8
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/157591.ts
+#http://opplex.ch:8080/live/10071975/10071975/351023.m3u8
 
 #EXTINF:-1,SCTV
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
