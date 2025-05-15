@@ -43,7 +43,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505876.m3u
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505856.m3u8
 
 #EXTINF: -1,DAAI TV
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505826.m3u8
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS.m3u8
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505826.m3u8
 
 #EXTINF: -1,MDTV/NET.
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505860.m3u8
@@ -62,6 +63,9 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRrzyHd.png",iNews
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+#EXTINF:-1,TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1537227004.m3u8
 
 #EXTINF:-1,Channel Jowo
 http://cdn.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
@@ -335,6 +339,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/71b5c8483161297.m3u8
 
 #EXTINF:-1,TV MU
 http://cdn.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
+#https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF: -1,MQTV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505857.m3u8
@@ -345,7 +350,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505869.m3u
 #EXTINF:-1,AswajaTV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
-#EXTINF: -1,TV9
+#EXTINF: -1,TV9 Nusantara
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505877.m3u8
 
 #EXTINF:-1,MIC
@@ -397,7 +402,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505824.m3u
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1,rri NET
-http://opplex.ch:8080/live/10071975/10071975/351029.m3u8
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
+#http://opplex.ch:8080/live/10071975/10071975/351029.m3u8
 
 #EXTINF: -1,cna
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505820.m3u8
@@ -451,10 +457,10 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505815.m3u
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 #EXTINF:-1,DubaiSports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
 #EXTINF:-1,DubaiSports 3	
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
 http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
