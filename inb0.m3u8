@@ -387,7 +387,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF: -1,METRO TV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505853.m3u8
 
-#EXTINF: -1,SINDONEWS TV
+#EXTINF: -1,MAGNA TV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505846.m3u8
 
 #EXTINF: -1,CNN Indonesia
@@ -457,9 +457,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
-http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/13120.m3u8
-#http://opplex.ch:8080/live/10071975/10071975/388709.m3u8
-#http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
 #EXTINF:-1,beIN SPORTS 2
 http://opplex.ch:8080/live/10071975/10071975/388710.m3u8
@@ -475,6 +473,9 @@ http://fortv.cc:8080/live/cQnq6G/652882/46792.m3u8
 
 #EXTINF:-1,FS2
 http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
+
+#EXTINF:-1,PSJ TV
+https://play.accolamedia.id/accola/psj.stream/chunklist_w2123505347.m3u8
 
 #EXTINF:-1,HorizonSports
 https://jmp2.uk/sam-ITBA1500002UB.m3u8
