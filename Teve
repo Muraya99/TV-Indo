@@ -1,0 +1,400 @@
+#EXTM3U
+#EXTINF:-1 group-title="DENS", DENSPLAY
+http://group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+#EXTINF:-1 group-title="DENS", DENSLifestyle
+http://group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+#EXTINF:-1 group-title="DENS", dfc
+http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+#http://group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+#EXTINF:-1 group-title="DENS", DENSShowBiz
+http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+#http://group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+#EXTINF:-1 group-title="DENS", DENSKnowledge
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+#http://group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+#EXTINF:-1 group-title="DENS", CHANNEL JOWO
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+#EXTINF:-1 group-title="DENS", METRO TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="DENS", tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 group-title="DENS", KOMPASTV	
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="DENS", BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+#EXTINF:-1 group-title="DENS", BERITASATU
+https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+#EXTINF:-1 group-title="DENS", antv
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="DENS", MDTV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=192222&extension=ts&play_token=bYNMTWuVwR
+#https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 group-title="DENS", rtv
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 group-title="DENS", ElshintaTV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS", MAGNATV
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+#EXTINF:-1 group-title="DENS", TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
+#https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="DENS", TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_900000=10002-mp4a_96000_eng=20000.m3u8
+#https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="DENS", JAKTV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS", rodjatv
+https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="DENS", DAAITV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS", nusantaratv
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="DENS" "KIDS", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+#EXTINF:-1 group-title="DENS" "KIDS', mYKIDZ
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+#EXTINF:-1 group-title="DENS", ROCK entertainment
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
+#EXTINF:-1 group-title="DENS", ROCK ACTION
+http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 group-title="DENS", KIX
+https://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="DENS", KBS KOREA
+https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+#EXTINF:-1 group-title="DENS", KBS WORLD
+https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+#EXTINF:-1 group-title="DENS", K+
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="DENS", ONE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165922&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="DENS", tvN
+https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", tvN MOVIES
+https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", CELESTIAL MOVIES
+https://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", CCM
+https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", mycinemaasia
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+#EXTINF:-1 group-title="DENS" "MOVIE", mycinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
+#EXTINF:-1 group-title="DENS" "MOVIE", MYCINEMAEUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", myfamilychannel
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
+#EXTINF:-1 group-title="DENS" "MOVIE", thrill
+https://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 group-title="DENS" "IPTEK", TV5MONDE Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTINF:-1 group-title="DENS" "MUSIK", STINGRAY Classica
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "MUSIK", Dance TV
+https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
+#EXTINF:-1 group-title="DENS" "SPORTS", FIGHT SPORTS
+https://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="DENS" "SPORTS", MOTOR+VISION
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+#EXTINF:-1 group-title="DENS" "SPORTS", W-sport
+https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", cna
+https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&userid=lite&chname=CNA
+#EXTINF:-1 group-title="DENS" "BERITA", NHK WORLD JAPAN
+https://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", ALJAZEERA English
+https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", TRTWORLD
+https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", WION
+http://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", ALJAZEERA Arabic
+https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", CCTV4
+https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="DENS" "BERITA", FRANCE24
+https://op-group1-swiftservesd-1.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="DENS" , TV5MONDE ASIE
+https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
+#EXTINF:-1 group-title="DENS" "IPTEK" , DW
+https://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS"  "BERITA", DIM TV
+https://op-group2-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENS" "IPTEK" , CGTN DOCUMENTARY
+https://op-group1-swiftservesd-1.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="DENS" "RELIGI", Al-Qur'an TV
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="DENS" "RELIGI", As'Sunnah TV
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 group-title="DENS" "MOVIE", wedotv BigStories
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/cb563f186575609098c82167d0f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24aa2a9e65f178b38f5ac1f4ec12c58e68314c9c914b288d64698418623f5459d9bf583d71988a9ab54f803f17a1c4a2e0fedea0b9bdd49a6c9c026768b742c490a43a8a09cf31475ec364258ebb1caaf75c000da8637845f22a90cea3bee42827fbe19b4bb01efbabedb4d552feac7546c7dd88fcc8bff267dbc76eb9de7dc7e79eb9e7e1e50cc69d7363d62fb97af1380d307e4d549e4e5337252a8904188d3b587ffa2ff29f6449bf5e8f24e2ae2a70078e47486d804f227d977a6cb00285d3f2bc7f874f7f612daad0035e2a14ddd1261c8b34e3fdb7c50e8611550e972d45a1665c27616142ed6fde85e47ba5c7ab63a28ef5075ab43f0b121f4a9cfe40871d58c842afb1e0d37ad2a2df4c3cd453d34ddbffe9a796c37bdcf75043136ee44efd2d9f2761b3a2196a7f1ed5c220e351b5343deacb730d3b9c9271919d640664e405046c64a86329f37400e789d4593b45f20cc46003df6ab3a6a5f6ebdc1a5ced2859d0ae6299387d6111b16752ffd3f0c2d6b9391885af637023e595592006946f2560914a4c587b5d7d02efd9d62ab2a6b5b3696a759125f20060960ac9966d351f5805de8cbb83be2dbcd4315cb6cd9427af8f7d363ffe184bd3f2c98b8581462d79e67f27a23c318c338cab554dda35e12132c4a2a97d94c9ebfd87b041d8afcdf93569b1811ff5dc11950ef5ac6591c/57/640x360_712800/index.m3u8
+#EXTINF:-1 group-title="KIDS", ANIMAX
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165882&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", FunpLaNeT
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/3479.ts
+#EXTINF:-1 group-title="MOVIE", GALAXY PREMIUM
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165813&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", GALAXY
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
+#http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165812&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="DENS", tvN
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165928&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", ROCK ACTION
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165919&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", ROCK entertainment
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165920&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", tvN MOVIES
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165929&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", usa network
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="MOVIE", HBO
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8
+#EXTINF:-1 group-title="MOVIE", HBO HiTS
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
+#EXTINF:-1 group-title="MOVIE", HBO family
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
+#EXTINF:-1 group-title="MOVIE", HBO Signature
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8
+#EXTINF:-1 group-title="MOVIE", CINEMAX
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 group-title="MOVIE", AXN
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165883&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", HITS MOVIES
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165817&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", ORIGINALS
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165891&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", CINEEDGE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165892&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", superrix
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165893&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", UNIQUES
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165895&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", DUBAI one
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="IPTEK", BBC EARTH
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165782&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="IPTEK", Curiosity
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="MUSIK", QWEST
+https://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
+#EXTINF:-1 group-title="MUSIK", TRACE BRAZIL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1 group-title="IPTEK", HISTORY
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165864&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", CNBC INDONESIA
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165800&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", CRIME+INVESTIGATION
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165801&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", DAAI TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165802&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", Dreamwork
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165896&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", euronews
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165805&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", FOOD TRAVEL
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165809&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", FOX NEWS INTERNATIONAL
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165810&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", FRANCE 24
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165811&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", GTV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165815&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", HUNAN TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165818&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", IDX CHANNEL
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165819&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", JAK TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165824&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", JIANGSU TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165825&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", jtv
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165826&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", KIX
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165829&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", ONE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165922&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", KOMPAS TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165830&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", hanacaraka TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165832&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", Lifetime
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165833&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", Lifestyle
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1163704&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", METRO TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165835&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", VISION PRIME
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165836&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", celebrities TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165837&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="RELIGI", muslim TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165838&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", SINDONEWS TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165839&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MUSIK", MTV Live
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165843&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MUSIK", musik Indonesia
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165844&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", ent
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165845&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", XING KONG
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165846&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", nickledeon
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165848&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", NET./MDTV
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+#http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165849&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", NHK WORLD JAPAN
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165850&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", NHK
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165851&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", rtv
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165859&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", TV5MONDE ASIE
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165860&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", SEA TODAY
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165861&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", DRAGON TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165863&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="RELIGI", Tawaf TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165869&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", thrill
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165870&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", TRANSTV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165872&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="BERITA", TRTWORLD
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165873&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="RELIGI", TV9 NUSANTARA
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165874&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", tvOne
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165877&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", TVRI
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165878&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", VISION PRIME
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165879&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", ZEE BIOSKOP
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165880&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", ZOOMOO
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165881&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", Dreamwork
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165896&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", DW
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165897&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", GlobalTrekker
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165901&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", HITS
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165903&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MOVIE", imc
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165904&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", ent
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165905&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", iNews
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165906&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="IPTEK", LoVeNaTuRe
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165908&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", MNC TV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165910&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", MOONBUG
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165911&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MUSIK", MTV 90's
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165912&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="MUSIK", MTV Live
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165913&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", tvone
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=192222&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="KIDS", nick jr.
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165915&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", Outdoor
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165916&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="ENTERTAINT", RCTI
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165918&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", SPOTV
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165925&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", SPOTV2
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165926&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TNT Sports 1 FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="SPORTS", TNT Sports 2 FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="SPORTS", TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="SPORTS", TNT Sports 4 FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="SPORTS", EUROSPORT 1
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=12855&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", EUROSPORT 2
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=239&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TSN 1
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=69660&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TSN 2
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=69659&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TSN 3
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=69658&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TSN 4
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=69657&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", TSN 5
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=69656&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", beIN SPORTS 1
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1163716&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", beIN SPORTS 2
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1163711&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", beIN SPORTS 3
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1163715&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", beIN SPORTS 4
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1163715&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", astro PremierLeague1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/130.0
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="SPORTS", astro PremierLeague2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/130.0
+http://opplex.ch:8080/live/10071975/10071975/388698.m3u8
+#https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="SPORTS", astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/130.0
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="SPORTS", astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/130.0
+https://7pal.short.gy/astross4
+#EXTINF:-1 group-title="SPORTS", ESPN NL
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1308702&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", ESPN US
+http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=11203&extension=ts&play_token=bYNMTWuVwR
+https://7pal.short.gy/espnus
+#EXTINF:-1 group-title="SPORTS", sky SPORT 1
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT 2
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT 3
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT 4
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT 5
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT 6
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 group-title="SPORTS", sky SPORT PremierLeague
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="SPORTS", Now SPORTS 1
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="SPORTS", Now SPORTS 2
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="SPORTS", Now SPORTS 3
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="SPORTS", HUB PREMIER 1
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="SPORTS", HUB PREMIER 2
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="SPORTS", HUB PREMIER 3
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="SPORTS", FS1
+http://m3u.iranvids.com/fox-sport-01/output.m3u8
+#EXTINF:-1 group-title="SPORTS", FS2
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.m3u8
+#http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1236474&extension=ts&play_token=bYNMTWuVwR
+#EXTINF:-1 group-title="SPORTS", NBA Live
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/20073.m3u8
+#https://7pal.short.gy/nbatvus
