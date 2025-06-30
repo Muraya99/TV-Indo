@@ -7,22 +7,22 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505808.m3u
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505865.m3u8
 
 #EXTINF: -1,RCTI
-http://opplex.ch:8080/live/10071975/10071975/351023.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351023.ts
 
 #EXTINF:-1,SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #EXTINF: -1,GTV
-http://opplex.ch:8080/live/10071975/10071975/350954.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350954.ts
 
 #EXTINF: -1,BTV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505816.m3u8
 
 #EXTINF: -1,INDOSIAR
-http://opplex.ch:8080/live/10071975/10071975/350972.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350972.ts
 
 #EXTINF: -1,MNC TV
-http://opplex.ch:8080/live/10071975/10071975/350996.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350996.ts
 
 #EXTINF:-1,TVOne
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
@@ -83,10 +83,10 @@ http://cdn.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 
 #EXTINF:-1,CITRA DANGDUT 
-http://opplex.ch:8080/live/10071975/10071975/350924.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350924.ts
 
 #EXTINF:-1,CITRA DRAMA
-http://opplex.ch:8080/live/10071975/10071975/350925.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350925.ts
 
 #EXTINF:-1,KIX
 http://cdn.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
@@ -95,7 +95,7 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
 #EXTINF:-1,ONE
-http://opplex.ch:8080/live/10071975/10071975/351033.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351033.ts
 
 #EXTINF:-1,tvN
 http://cdn.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
@@ -110,7 +110,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
 
 #EXTINF: -1,INSERT
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666195.ts
 
 #EXTINF: -1,DUNIA LAIN
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505831.m3u8
@@ -131,7 +131,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505809.m3u
 http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 
 #EXTINF: -1,LOVE NaTuRe
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505852.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350986.ts
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505852.m3u8
 
 #EXTINF:-1,INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
@@ -140,41 +141,44 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505812.m3u8
 
 #EXTINF: -1,BBC lifestyle
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505813.m3u8
+http://opplex.ch:8080/live/10071975/10071975/388757.ts
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505813.m3u8
 
 #EXTINF: -1,FASHION TV
-http://opplex.ch:8080/live/10071975/10071975/350945.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350945.ts
 
 #EXTINF: -1,Lifetime
-http://opplex.ch:8080/live/10071975/10071975/350987.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350987.ts
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
 
 #EXTINF: -1,HISTORY
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505841.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350961.ts
+#http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505841.m3u8
 
 #EXTINF:-1,HISTORY XTREME OUTDOOR
-https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3736-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d082e15e-9214-4119-8638-15c2c0edce25
+#https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF: -1,Smithsonian CHANNEL
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505871.m3u8
 
 #EXTINF: -1,NATIONAL GEOGRAPHIC 
-http://opplex.ch:8080/live/10071975/10071975/351007.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351007.ts
 
 #EXTINF: -1,NATIONAL GEOGRAPHIC WILD
-http://opplex.ch:8080/live/10071975/10071975/351008.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351008.ts
 
 #EXTINF:-1,CGTN Documentary
 http://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 
 #EXTINF:-1,CGTN
-http://opplex.ch:8080/live/10071975/10071975/350914.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350914.ts
 
 #EXTINF:-1,Discovery Asia
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350932.ts
 
 #EXTINF:-1,Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+http://opplex.ch:8080/live/10071975/10071975/346510.ts
 
 #EXTINF:-1,Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
@@ -198,7 +202,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505868.m3u8
 
 #EXTINF:-1,ROCK ACTION
-http://opplex.ch:8080/live/10071975/10071975/351025.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351025.ts
 
 #EXTINF:-1,My Cinema
 http://cdn.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
@@ -237,7 +241,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505873.m3u8
 
 #EXTINF:-1,GALAXY
-http://opplex.ch:8080/live/10071975/10071975/350950.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350950.ts
 
 #EXTINF: -1,GALAXY PREMIUM
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
@@ -261,26 +265,38 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505842.m3u
 http://opplex.ch:8080/live/10071975/10071975/350963.ts
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 
+#EXTINF: -1,HITS NOW
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401527139.ts
+
 #EXTINF: -1,Warner TV
-http://opplex.ch:8080/live/10071975/10071975/351059.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351059.ts
 
 #EXTINF:-1,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF: -1,ZEEBIOSKOP
+#EXTINF: -1,ZBIOSKOP
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505884.m3u8
 
 #EXTINF: -1,ETv BIOSKOP
 http://opplex.ch:8080/live/10071975/10071975/350941.ts
+
+#EXTINF: -1,ETv BIOSKOP 2
+http://opplex.ch:8080/live/10071975/10071975/350917.ts
+
+#EXTINF: -1,ETv BIOSKOP 3
+http://opplex.ch:8080/live/10071975/10071975/350918.ts
+
+#EXTINF: -1,ETv BIOSKOP 4
+http://opplex.ch:8080/live/10071975/10071975/350944.ts
+
+#EXTINF: -1,ETv Live
+http://opplex.ch:8080/live/10071975/10071975/350877.ts
 
 #EXTINF: -1,imc
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
 
 #EXTINF: -1,BIOSKOP INDONESIA
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
-
-#EXTINF: -1,FLiK
-http://opplex.ch:8080/live/10071975/10071975/350947.m3u8
 
 #EXTINF: -1,CARTOON NETWORK
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505818.m3u8
@@ -307,7 +323,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505862.m3u
 http://cdn.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
 
 #EXTINF:0,Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/33010.ts
+#https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,MyKidz
 http://cdn.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
@@ -319,14 +336,13 @@ https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 
 #EXTINF:-1,Animax
-http://199.178.166.73:80/live/play/Y2xaNE1FOHhiMW95YVhWSldHaERValpZVnl0SlRGRjBWMDQxSzIxNVpHbFViVXBOVEhKTE1WcExZejA9/1165775
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/191845.ts
 
 #EXTINF:-1,DisneyXD
-http://fortv.cc:8080/live/cQnq6G/652882/75621.m3u8
+http://212.102.60.231/DISNEY_XD/index.m3u8
 
 #EXTINF:-1,Baby TV
-http://opplex.ch:8080/live/10071975/10071975/350896.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350896.ts
 
 #EXTINF:-1,Makkah TV
 http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
@@ -338,7 +354,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/71b5c8483161297.m3u8
 
 #EXTINF:-1,TV MU
-http://cdn.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
+http://opplex.ch:8080/live/10071975/10071975/351043.ts
+#http://cdn.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 #https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF: -1,MQTV
@@ -374,13 +391,37 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE Latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 
-#EXTINF:-1,SEA Today
-http://cdn.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
-
 #EXTINF: -1,TV5MONDE INFO
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505896.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINT", KBS WORLD 
+#EXTINF: -1,TV5MONDE Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+#EXTINF: -1,TV5MONDE ASIE
+https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
+
+#EXTINF:-1,TV5MONDE EUROPE
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/15986.ts
+
+#EXTINF:-1,TV5MONDE AFRIQUE
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/73982.ts
+
+#EXTINF:-1,TV5MONDE FBSM
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/128302.ts
+
+#EXTINF:-1,TV5MONDE MAGHREB ORIENT
+http://iptvtree.net:8080/live/F28312/cc1dc138/302414.ts
+
+#EXTINF:-1,TV5MONDE INFO
+http://cool365.xyz:900/live/4160189881/DB4ACD54/751.ts
+
+#EXTINF:-1,TV5MONDE LATIN AMERICA
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/11536.ts
+
+#EXTINF:-1,TiVi5
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/104985.ts
+
+#EXTINF:-1,KBS WORLD 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF: -1,CNBC INDONESIA
@@ -418,7 +459,7 @@ http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTINF:-1,Bloomberg
-http://opplex.ch:8080/live/10071975/10071975/350907.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350907.ts
 
 #EXTINF:-1,Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -445,7 +486,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 
 #EXTINF: -1,true PREMIERFOOTBALL 1
-http://opplex.ch:8080/live/10071975/10071975/350993.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350993.ts
 
 #EXTINF: -1,SPOTV
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505814.m3u8
@@ -466,19 +507,19 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
 #EXTINF:-1,beIN SPORTS 2
-http://opplex.ch:8080/live/10071975/10071975/388710.m3u8
+http://opplex.ch:8080/live/10071975/10071975/388710.ts
 
 #EXTINF:-1,beIN SPORTS 3
-http://opplex.ch:8080/live/10071975/10071975/348204.m3u8
+http://opplex.ch:8080/live/10071975/10071975/350901.ts
 
 #EXTINF:-1,Fight Sports
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 
 #EXTINF:-1,FS1
-http://fortv.cc:8080/live/cQnq6G/652882/46792.m3u8
+http://212.102.60.231/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1,FS2
-http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
+http://212.102.60.231/FOX_SPORTS_2/index.m3u8
 
 #EXTINF:-1,PSJ TV
 https://play.accolamedia.id/accola/psj.stream/chunklist_w2123505347.m3u8
