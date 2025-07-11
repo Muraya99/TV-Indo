@@ -236,6 +236,9 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7783.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45066.ts
 #http://filex.me:8080/live/444476/444476/302247.ts
 #http://xott.live:8080/live/home/123456/350954.ts
+#EXTINF:0 EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1280x720,Garudatv
+#EXTGRP:ENTERTAINT
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:0,HUNAN TV
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45028.ts
@@ -486,7 +489,6 @@ http://198.16.100.186:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:0,UNIVERSAL TV
 #EXTGRP:MOVIE
-
 http://metalgear.bemtv.cn:80/STREAM/8289/chunks.m3u8
 #EXTINF:0,usa network
 #EXTGRP:MOVIE
