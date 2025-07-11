@@ -113,6 +113,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTINF:0,PopC
 #EXTGRP:DENS
+#EXTXSTREAMINF:BANDWIDTH=1280000,RESOLUTION=1280x720
 https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:0,mycinemaasia
 #EXTGRP:DENS
@@ -226,7 +227,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/191842.ts
 #http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62295.m3u8
 #EXTINF:0,TLC
 #EXTGRP:ENTERTAINT
-https://stream1.freetv.fun/tlc--wj-1.ctv
+http://198.16.100.186:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
 #EXTINF:0,FOOD NETWORK
 #EXTGRP:ENTERTAINT
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7783.ts
@@ -236,6 +237,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/45066.ts
 #http://filex.me:8080/live/444476/444476/302247.ts
 #http://xott.live:8080/live/home/123456/350954.ts
 #EXTINF:0,Garudatv 
+#EXTXSTREAMINF:BANDWIDTH=4000000,RESOLUTION=1280x720
 #EXTGRP:ENTERTAINT
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:0,HUNAN TV
@@ -600,23 +602,28 @@ https://ktpremium.site:443/live/RY318/7777/73873.ts
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62242.ts
 #EXTINF:0,eTV BIOSKOP
 #EXTGRP:MOVIE
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/298526.ts
+#http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 #http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62256.ts
 #EXTINF:0,eTV BIOSKOP 2
 #EXTGRP:MOVIE
-http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
+#http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 #EXTINF:0,eTV Bioskop 3
 #EXTGRP:MOVIE
-http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
+#http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 #EXTINF:0,eTV BIOSKOP 4
 #EXTGRP:MOVIE
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62248.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/298529.ts
+#http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62248.ts
 #EXTINF:0,Z BIOSKOP
 #EXTGRP:MOVIE
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45087.ts
 #EXTINF:0,ANIMAX
 #EXTGRP:KIDS
-http://cool365.xyz:900/live/4160189881/DB4ACD54/45057.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1165882.ts
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/45057.ts
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/191845.ts
 #http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165775.ts
 #EXTINF:0,ANIMAX JPN
@@ -740,7 +747,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/172422.ts
 http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165912.ts
 #EXTINF:0,MTV Live
 #EXTGRP:MUSIK
-https://ktpremium.site:443/live/RY318/7777/914984.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1165913.ts
 #EXTINF:0,MTV Hits
 #EXTGRP:MUSIK
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191718.ts
@@ -783,9 +790,12 @@ https://7pal.short.gy/tntspts3
 #EXTINF:0,TNT Sports 4 FHD
 #EXTGRP:SPORT
 https://7pal.short.gy/tntspts4
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:SPORT
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/658426.ts
 #EXTINF:0,EUROSPORT 2
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/932573.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400218234.ts
 #EXTINF:0,TSN 1
 #EXTGRP:SPORT
 https://7pal.short.gy/tsn1ca
@@ -806,26 +816,26 @@ https://7pal.short.gy/tsn5ca
 http://212.102.60.231/BEIN_SPORTS/index.m3u8
 #EXTINF:0,beIN SPORTS 1
 #EXTGRP:SPORT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/191881.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163709.ts
 #EXTINF:0,beIN SPORTS 2
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/912557.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163710.ts
 #EXTINF:0,beIN SPORTS 3
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/26322.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163713.ts
 #EXTINF:0,beIN SPORTS 4
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/1011373.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/10795.ts
 #EXTINF:0,beIN SPORTS 5
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/1011374.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1269956.ts
 #EXTINF:0,astro PremierLeague1
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1163984.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/146068.ts
 #https://7pal.short.gy/astross1
 #EXTINF:0,astro PremierLeague2
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1163986.ts
+https://stream1.freetv.fun/astro-premier-league-2--z-1.m3u8
 #https://ktpremium.site:443/live/RY318/7777/26313.ts
 #EXTINF:0,astro Grandstand
 #EXTGRP:SPORT
@@ -837,11 +847,11 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/157558.ts
 #https://7pal.short.gy/astross4
 #EXTINF:0,ESPN NL
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/4847.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/4847.ts
 #http://mmesk241018a.wanicelife.com:8880/live/vX7rJA3gev/F2upSrXgCS/31425.ts
 #EXTINF:0,ESPN US
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/11203.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/11203.ts
 #http://mmesk241018a.wanicelife.com:8880/live/vX7rJA3gev/F2upSrXgCS/3136.ts
 #EXTINF:0,sky SPORT 1
 #EXTGRP:SPORT
@@ -887,8 +897,7 @@ https://7pal.short.gy/HPremier3
 http://m3u.iranvids.com/fox-sport-01/output.m3u8
 #EXTINF:0,FS2
 #EXTGRP:SPORT
-http://xott.live:8080/live/home/123456/347290.ts
-#http://iptvtree.net:8080/live/F28312/cc1dc138/757.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/13135.ts
 #EXTINF:0,PremierSports1
 #EXTGRP:SPORT
 https://7pal.short.gy/prsport1
@@ -915,10 +924,10 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/191714.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191761.ts
 #EXTINF:0,REalMadridTV
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/884108.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/302299.ts
 #EXTINF:0,RedBullTV
 #EXTGRP:SPORT
-https://ktpremium.site:443/live/RY318/7777/15128.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/284504.ts
 #EXTINF:0,MotorRacing
 #EXTGRP:SPORT
 https://ktpremium.site:443/live/RY318/7777/1030569.ts
@@ -951,10 +960,10 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62212.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191859.ts
 #EXTINF:0,AEC
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site/live/RY318/7777/916396.ts
+https://stream1.freetv.fun/astro-aec--z-1.m3u8
 #EXTINF:0,AOD
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/912839.ts
+https://stream1.freetv.fun/astro-aod--z-1.m3u8
 #EXTINF:0,AURA
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191858.ts
@@ -963,22 +972,24 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/191858.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191853.ts
 #EXTINF:0,ARENA 2
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/913179.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163655.ts
+#https://ktpremium.site:443/live/RY318/7777/913179.ts
 #EXTINF:0,ARENA BOLA 1
 #EXTGRP:ASTRO MALAY
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8
+https://stream1.freetv.fun/astro-arena-bola--z-1.m3u8
 #EXTINF:0,ARENA BOLA 2
 #EXTGRP:ASTRO MALAY
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401550643.ts
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
 #EXTINF:0,BADMINTON
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/1010678.ts
+https://stream1.freetv.fun/astro-badminton-1--z-1.m3u8
 #EXTINF:0,BADMINTON 2
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site/live/RY318/7777/1010679.ts
+https://stream1.freetv.fun/astro-badminton-2--z-1.m3u8
 #EXTINF:0,BOO
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/26011.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163666.ts
 #EXTINF:0,CITRA
 #EXTGRP:ASTRO MALAY
 https://ktpremium.site:443/live/RY318/7777/913177.ts
@@ -987,25 +998,28 @@ https://ktpremium.site:443/live/RY318/7777/913177.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191860.ts
 #EXTINF:0,HUA HEE DAI
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/25973.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163677.ts
+#https://ktpremium.site:443/live/RY318/7777/25973.ts
 #EXTINF:0,iQIYI
 #EXTGRP:ASTRO MALAY
-https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163818.ts
 #EXTINF:0,OASIS
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191864.ts
 #EXTINF:0,PRIMA
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site/live/RY318/7777/25862.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/157467.ts
 #EXTINF:0,QJ
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/25970.ts
+https://stream1.freetv.fun/astro-qj--z-1.m3u8
+#https://ktpremium.site:443/live/RY318/7777/25970.ts
 #EXTINF:0,RANIA
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191866.ts
 #EXTINF:0,RIA
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/912833.ts
+https://stream1.freetv.fun/astro-ria--z-1.m3u8
+#https://ktpremium.site:443/live/RY318/7777/912833.ts
 #EXTINF:0,SHOWCHASE
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191702.ts
@@ -1018,28 +1032,29 @@ https://ktpremium.site/live/RY318/7777/1010680.ts
 https://ktpremium.site:443/live/RY318/7777/918423.ts
 #EXTINF:0,Tv1
 #EXTGRP:ASTRO MALAY
-http://iptvtree.net:8080/live/F28312/cc1dc138/158357.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163917.ts
 #EXTINF:0,Tv2
 #EXTGRP:ASTRO MALAY
-http://filex.me:8080/live/646467/646467/303526.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163920.ts
 #EXTINF:0,Tv3
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/25810.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163923.ts
 #EXTINF:0,Tv6
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/900905.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/305280.ts
+#https://ktpremium.site:443/live/RY318/7777/900905.ts
 #EXTINF:0,VINMEEN
 #EXTGRP:ASTRO MALAY
 https://ktpremium.site/live/RY318/7777/1012902.ts
 #EXTINF:0,DIDIK TV
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/25811.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163762.ts
 #EXTINF:0,8TV
 #EXTGRP:ASTRO MALAY
 https://ktpremium.site:443/live/RY318/7777/25812.ts
 #EXTINF:0,TV9
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/25813.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163924.ts
 #EXTINF:0,DUNIA SINEMA
 #EXTGRP:ASTRO MALAY
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -1057,7 +1072,11 @@ https://ktpremium.site:443/live/RY318/7777/1019163.ts
 https://ktpremium.site:443/live/RY318/7777/656643.ts
 #EXTINF:0,OKeY TV
 #EXTGRP:ASTRO MALAY
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/32.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163914.ts
+#http://iptv.kilas7.com:80/live/kaukia/asdfrewq/32.ts
+#EXTINF:0,SUKAN RTM
+#EXTGRP:ASTRO MALAY
+https://stream1.freetv.fun/rtm-sports--z-1.m3u8
 #EXTINF:0,BERITA RTM
 #EXTGRP:ASTRO MALAY
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/30.ts
