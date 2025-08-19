@@ -1,222 +1,212 @@
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+
 #EXTINF:0,DENSPLAY
-#EXTGRP:DENS
-http://group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 #EXTINF:0,DENSLifestyle
-#EXTGRP:DENS
-http://group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTINF:0,dfc
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:0,DENSShowBiz
-#EXTGRP:DENS
+#EXTGRP:DENS Local
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:0,DENSKnowledge
-#EXTGRP:DENS
-http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
 #EXTINF:0,CHANNEL JOWO
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #EXTINF:0,METRO TV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:0,tvOne
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:0,KOMPASTV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:0,BTV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 #EXTINF:0,BERITASATU
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
-#EXTINF:0,antv
-#EXTGRP:DENS
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165072.ts
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 #EXTINF:0,MDTV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0,SCTV
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,KOMPASTV
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0,rtv
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:0,ElshintaTV
-#EXTGRP:DENS
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+#EXTGRP:DENS Local
+http://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
 #EXTINF:0,MAGNATV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:0,TVRI SPORT
-#EXTGRP:DENS
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 #EXTINF:0,TVRI Nasional
-#EXTGRP:DENS
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_900000=10002-mp4a_96000_eng=20000.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 #EXTINF:0,JAKTV
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:0,rodjatv
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
+#EXTGRP:DENS local
+http://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8
 #EXTINF:0,DAAITV
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTGRP:DENS Local
+http://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+#EXTINF:0,nusantaratv
+#EXTGRP:DENS Local
+http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:0,ANIPLUS
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTINF:0,mYKIDZ
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 #EXTINF:0,ROCK entertainment
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
 #EXTINF:0,ROCK ACTION
-#EXTGRP:DENS
+#EXTGRP:DENS Premium
 http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
-#EXTINF:0,KIX
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
 #EXTINF:0,KBS KOREA
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTINF:0,KBS WORLD
-#EXTGRP:DENS
+#EXTGRP:DENS Premium
 https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 #EXTINF:0,K+
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:0,tvN
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:0,tvN MOVIES
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
-#EXTINF:0,CELESTIAL MOVIES
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
-#EXTINF:0,CCM
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:0,mycinemaasia
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
-#EXTINF:0,cinebox premiere
-#EXTGRP:DENS
-http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
 #EXTINF:0,MYCINEMAEUROPE
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
-#EXTINF:0,skycinemafamily
-#EXTGRP:DENS
-http://cord-cutter.net:8080/live/Ss5DKE/232455/53699.ts
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:0,thrill
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
 #EXTINF:0,TV5MONDE Style
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTINF:0,crema.tv
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#EXTINF:0,QWEST TV
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
 #EXTINF:0,STINGRAY Classica
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 #EXTINF:0,Dance TV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
-#EXTINF:0,FIGHT SPORTS
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
-#EXTINF:0,MOTOR+VISION
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-#EXTINF:0,W-sport
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-#EXTINF:0,BN CHANNEL
-#EXTGRP:DENS
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
+#EXTINF:0,MOTORVISION+
+#EXTGRP:DENS Premium
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
 #EXTINF:0,cna
-#EXTGRP:DENS
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1163741.ts
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&userid=lite&chname=CNA
 #EXTINF:0,NHK WORLD JAPAN
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
-#EXTINF:0,ALJAZEERA English
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
 #EXTINF:0,TRTWORLD
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+#EXTINF:0,RT News
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h226/02.m3u8
 #EXTINF:0,WION
-#EXTGRP:DENS
+#EXTGRP:DENS International
 http://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
-#EXTINF:0,ALJAZEERA Arabic
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
 #EXTINF:0,CCTV4
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
 #EXTINF:0,FRANCE24
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s22/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservesd-1.dens.tv/s/s22/01.m3u8
 #EXTINF:0,TV5MONDE ASIE
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
 #EXTINF:0,DW
-#EXTGRP:DENS
-https://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
+#EXTGRP:DENS International
+http://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8
 #EXTINF:0,DIM TV
-#EXTGRP:DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
 #EXTINF:0,CGTN DOCUMENTARY
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s20/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservesd-1.dens.tv/s/s20/01.m3u8
 #EXTINF:0,Al-Qur'an TV
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #EXTINF:0,As'Sunnah TV
-#EXTGRP:DENS
-https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+#EXTGRP:DENS International
+http://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 #EXTINF:0,wedotv BigStories
-#EXTGRP:DENS
-https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/cb563f186575609098c82167d0f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24aa2a9e65f178b38f5ac1f4ec12c58e68314c9c914b288d64698418623f5459d9bf583d71988a9ab54f803f17a1c4a2e0fedea0b9bdd49a6c9c026768b742c490a43a8a09cf31475ec364258ebb1caaf75c000da8637845f22a90cea3bee42827fbe19b4bb01efbabedb4d552feac7546c7dd88fcc8bff267dbc76eb9de7dc7e79eb9e7e1e50cc69d7363d62fb97af1380d307e4d549e4e5337252a8904188d3b587ffa2ff29f6449bf5e8f24e2ae2a70078e47486d804f227d977a6cb00285d3f2bc7f874f7f612daad0035e2a14ddd1261c8b34e3fdb7c50e8611550e972d45a1665c27616142ed6fde85e47ba5c7ab63a28ef5075ab43f0b121f4a9cfe40871d58c842afb1e0d37ad2a2df4c3cd453d34ddbffe9a796c37bdcf75043136ee44efd2d9f2761b3a2196a7f1ed5c220e351b5343deacb730d3b9c9271919d640664e405046c64a86329f37400e789d4593b45f20cc46003df6ab3a6a5f6ebdc1a5ced2859d0ae6299387d6111b16752ffd3f0c2d6b9391885af637023e595592006946f2560914a4c587b5d7d02efd9d62ab2a6b5b3696a759125f20060960ac9966d351f5805de8cbb83be2dbcd4315cb6cd9427af8f7d363ffe184bd3f2c98b8581462d79e67f27a23c318c338cab554dda35e12132c4a2a97d94c9ebfd87b041d8afcdf93569b1811ff5dc11950ef5ac6591c/57/640x360_712800/index.m3u8
+#EXTGRP:DENS FreeStream
+https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90fac245ac4d30b8b62288fafd87c387c0c5f820c08eda743a7aae308178d39a1e01a1dc74d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905e39df3e6b65548838eaeae6662570857111ce8b857a2b9a39324fdd/56/768x432_1513600/index.m3u8
 #EXTINF:0,wedotv Movies
-#EXTGRP:DENS
+#EXTGRP:DENS FreeStream
 https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff95fad2704c18502d962288fafda7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905d349147eae4e9f5498753502105e2b0b46bb1b16f1286929e1c4e/8/848x480_1686360/index.m3u8
+#EXTINF:0,wedotv Amor
+#EXTGRP:DENS FreeStream
+https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90cae735bc5865edf62288fafdb7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905e35d13e6b6554b73deaeae646a901550dd72d91f9f55c7e0d062f67/98/848x480_1686360/index.m3u8
+#EXTINF:0,wedotv Sports
+#EXTGRP:DENS FreeStream
+https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90aad7006c4820e8e62288fafda7c387c0c5f820f5be3f443a5fde35443896fa0e24a19934d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905f3ddc7312e4d55c4691875f2468dc8dbc2f0be294a661f8dc0be0e34c/155/848x480_1686360/index.m3u8
+#EXTINF:0,KIX
+#EXTGRP:ENTERTAINT
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165829
 #EXTINF:0,ONE
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165077.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 #EXTINF:0,HITS NOW
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401527139.ts
 #EXTINF:0,WARNER TV
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157594.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666222.ts
 #EXTINF:0,HGTV
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298535.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666246.ts
+#EXTINF:0,NHK
+#EXTGRP:ENTERTAINT
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165851
 #EXTINF:0,CNBC INDONESIA
 #EXTGRP:ENTERTAINT
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1458597921_b384000_sleng.m3u8
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165800
 #EXTINF:0,CNN INDONESIA
 #EXTGRP:ENTERTAINT
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1380134559_b384000_sleng.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/191790.ts
 #EXTINF:0,CRIME+INVESTIGATION
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165052.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:0,AsianFoodNetwork
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298503.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666280.ts
 #EXTINF:0,TLC
 #EXTGRP:ENTERTAINT
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666227.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666227.ts
 #EXTINF:0,FOOD NETWORK
 #EXTGRP:ENTERTAINT
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7783.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666253.ts
 #EXTINF:0,GTV
 #EXTGRP:ENTERTAINT
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45066.ts
+http://xott.live:8080/live/home/123456/350954.ts
 #EXTINF:0,Garudatv 
 #EXTGRP:ENTERTAINT
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
@@ -225,58 +215,37 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45028.ts
 #EXTINF:0,IDX CHANNEL
 #EXTGRP:ENTERTAINT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165819.ts
-#EXTINF:0,SCTV
-#EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162141.ts
-#EXTINF:0,SCTV 2
-#EXTGRP:ENTERTAINT
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401586526.ts
-#EXTINF:0,SCTV 3
-#EXTGRP:ENTERTAINT
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:0,SCTV 4
-#EXTGRP:ENTERTAINT
-http://xott.live:8080/live/home/123456/351030.ts
-#EXTINF:0,SCTV 5
-#EXTGRP:ENTERTAINT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401586526.ts
-#EXTINF:0,SCTV 6
-#EXTGRP:ENTERTAINT
-http://iptvtree.net:8080/live/F28312/cc1dc138/162141.ts
-#EXTINF:0,SCTV 7
-#EXTGRP:ENTERTAINT
-http://filex.me:8080/live/7975/7975/302301.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:0,JIANGSU TV
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45029.ts
 #EXTINF:0,jtv
 #EXTGRP:ENTERTAINT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/45092.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 #EXTINF:0,moji
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298550.ts
-#EXTINF:0,SEA TODAY
-#EXTGRP:ENTERTAINT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/191799.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666236.ts
 #EXTINF:0,hanacaraka TV
 #EXTGRP:ENTERTAINT
-http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165832&extension=ts&play_token=bYNMTWuVwR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 #EXTINF:0,Lifetime
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298543.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
 #EXTINF:0,Lifestyle
 #EXTGRP:ENTERTAINT
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200779.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163703
+#EXTINF:0,FIRST LIFESTYLE
+#EXTGRP:KIDS
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165832
 #EXTINF:0,ANHUI TV
 #EXTGRP:ENTERTAINT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/45025.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 #EXTINF:0,VISION PRIME
 #EXTGRP:ENTERTAINT
-http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165836&extension=ts&play_token=bYNMTWuVwR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 #EXTINF:0,celebrities TV
 #EXTGRP:ENTERTAINT
-http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165837&extension=ts&play_token=bYNMTWuVwR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTINF:0,FTV
 #EXTGRP:ENTERTAINT
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62243.ts
@@ -285,13 +254,16 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62243.ts
 http://67.219.215.19/play/live.php?mac=00:1A:79:05:8B:80&stream=1165845&extension=ts&play_token=bYNMTWuVwR
 #EXTINF:0,XING KONG
 #EXTGRP:ENTERTAINT
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/38.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 #EXTINF:0,cinebox blockbuster
 #EXTGRP:MOVIE
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
 #EXTINF:0,STAR MOVIES
 #EXTGRP:MOVIE
-http://xott.live:8080/live/home/123456/109970.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=277339
+#EXTINF:0,STAR MOVIES
+#EXTGRP:MOVIE
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=277323
 #EXTINF:0,NET./MDTV
 #EXTGRP:ENTERTAINT
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
@@ -316,6 +288,9 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/11536.ts
 #EXTINF:0,TiVi5
 #EXTGRP:ENTERTAINT
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/104985.ts
+#EXTINF:0,Rai Italia
+#EXTGRP:ENTERTAINT
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666234.ts
 #EXTINF:0,DRAGON TV
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45027.ts
@@ -330,40 +305,38 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0,jtv
 #EXTGRP:ENTERTAINT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165826.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165826
 #EXTINF:0,JawaposTV
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157601.ts
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:0,BAHRAIN International
 #EXTGRP:ENTERTAINT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/28186.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/14011.ts
 #EXTINF:0,VISION PRIME
-#EXTGRP:ENTERTAINT
-http://cool365.xyz:900/live/4160189881/DB4ACD54/157042.ts
 #EXTINF:0,GlobalTrekker
 #EXTGRP:ENTERTAINT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165901.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165814
 #EXTINF:0,iNews
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157579.ts
-#EXTINF:0,CITRA MUSLIM
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165822
+#EXTINF:-1,CITRA MUSLIM
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666265.ts
-#EXTINF:0,CITRA ENTERTAINMENT
+#EXTINF:-1,CITRA ENTERTAINMENT
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666266.ts
-#EXTINF:0,CITRA DRAMA
+#EXTINF:-1,CITRA DRAMA
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264748.ts
-#EXTINF:0,CITRA DANGDUT
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62267.ts
+#EXTINF:-1,CITRA DANGDUT
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/247446.ts
-#EXTINF:0,CITRA BIOSKOP
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666268.ts
+#EXTINF:-1,CITRA BIOSKOP
 #EXTGRP:ENTERTAINT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666269.ts
 #EXTINF:0,MNC TV
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165054.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165840
 #EXTINF:0,Outdoor
 #EXTGRP:ENTERTAINT
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -375,10 +348,13 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
 https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
 #EXTINF:0,RCTI
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157591.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165855
 #EXTINF:0,INDOSIAR
 #EXTGRP:ENTERTAINT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162138.ts
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTINF:0,INDOSIAR (B)
+#EXTGRP:ENTERTAINT
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666241.ts
 #EXTINF:0,Dhoho TV
 #EXTGRP:ENTERTAINT
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/307053.ts
@@ -403,18 +379,15 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165094.ts
 #EXTINF:0,NAT GEO WILD
 #EXTGRP:IPTEK
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/197967.ts
-#EXTINF:0,BBC NEWS
-#EXTGRP:IPTEK
-http://cool365.xyz:900/live/4160189881/DB4ACD54/29642.ts
 #EXTINF:0,BBC Lifestyle
 #EXTGRP:IPTEK
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29643.ts
 #EXTINF:0,Discovery
 #EXTGRP:IPTEK
-http://filex.me:8080/live/7975/7975/302233.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666262.ts
 #EXTINF:0,Discovery asia.
 #EXTGRP:IPTEK
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/197968.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62268.m3u8
 #EXTINF:0,DMAX
 #EXTGRP:IPTEK
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666259.ts
@@ -432,7 +405,10 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 #EXTINF:0,HISTORY
 #EXTGRP:IPTEK
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401666245.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165864
+#EXTINF:0,Outdoor
+#EXTGRP:IPTEK
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165853
 #EXTINF:0,AHC
 #EXTGRP:IPTEK
 http://212.102.60.231/American_Heroes_Channel/index.m3u8
@@ -444,7 +420,13 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264767.ts
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:0,LoVeNaTuRe
 #EXTGRP:IPTEK
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157592.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165834
+#EXTINF:0,BBC EARTH
+#EXTGRP:IPTEK
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165885
+#EXTINF:0,animal planet
+#EXTGRP:IPTEK
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666279.ts
 #EXTINF:0,Classic Arts Showcase
 #EXTGRP:IPTEK
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -457,12 +439,15 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306469.ts
 #EXTINF:0,CITRA Muslim
 #EXTGRP:RELIGI
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666265.ts
+#EXTINF:0,MuslimTV
+#EXTGRP:RELIGI
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165869
 #EXTINF:0,Tawaf TV
 #EXTGRP:RELIGI
 http://198.16.100.186:8278/TawafTV/playlist.m3u8?tid=MBCB5614836656148366&ct=19249&tsum=36b068ac8156d98ace6adfe2f490ff3f
 #EXTINF:0,TV9 NUSANTARA
 #EXTGRP:RELIGI
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162509.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165874
 #EXTINF:0,TV Muhammadiyah
 #EXTGRP:RELIGI
 http://198.16.100.186:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
@@ -477,31 +462,37 @@ http://metalgear.bemtv.cn:80/STREAM/8289/chunks.m3u8
 https://7pal.short.gy/usanetwork
 #EXTINF:0,HBO
 #EXTGRP:MOVIE
-http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666250.ts
 #EXTINF:0,HBO HiTS
 #EXTGRP:MOVIE
-http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666248.ts
 #EXTINF:0,HBO family
 #EXTGRP:MOVIE
-http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666242.ts
 #EXTINF:0,HBO Signature
 #EXTGRP:MOVIE
-http://iptvtree.net:8080/live/F28312/cc1dc138/306483.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666247.ts
 #EXTINF:0,CINEMAX
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/197964.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666215.ts
 #EXTINF:0,AXN
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165079.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62293.ts
 #EXTINF:0,HITS MOVIES
 #EXTGRP:MOVIE
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666243.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666243.ts
 #EXTINF:0,HITS
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165085.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165816
+#EXTINF:0,cinebox premiere
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
+#EXTINF:0,skycinemafamily
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/53699.ts
 #EXTINF:0,imc
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165820
 #EXTINF:0,LOTUS Macau
 #EXTGRP:MOVIE
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
@@ -528,10 +519,10 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/2398.ts
 http://212.102.60.231/FX_MOVIE/index.m3u8
 #EXTINF:0,GALAXY PREMIUM
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165813
 #EXTINF:0,GALAXY
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264773.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165812
 #EXTINF:0,FX
 #EXTGRP:MOVIE
 http://cord-cutter.net:8080/live/Ss5DKE/232455/46690.ts
@@ -597,10 +588,10 @@ http://1tv41.icu:8080/live/101038222/101038222/212902.ts
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62274.ts
 #EXTINF:0,Chinese Drama
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298516.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62283.ts
 #EXTINF:0,BIOSKOP INDONESIA
 #EXTGRP:MOVIE
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264801.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62291.ts
 #EXTINF:0,FLiK
 #EXTGRP:MOVIE
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62242.ts
@@ -609,7 +600,7 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62242.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/298526.ts
 #EXTINF:0,eTV BIOSKOP 2
 #EXTGRP:MOVIE
-http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 #EXTINF:0,eTV Bioskop 3
 #EXTGRP:MOVIE
 http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
@@ -618,10 +609,10 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
 http://iptvtree.net:8080/live/F28312/cc1dc138/298529.ts
 #EXTINF:0,Z BIOSKOP
 #EXTGRP:MOVIE
-http://cool365.xyz:900/live/4160189881/DB4ACD54/45087.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 #EXTINF:0,ANIMAX
 #EXTGRP:KIDS
-http://cool365.xyz:900/live/4160189881/DB4ACD54/34406.ts
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 #EXTINF:0,ANIMAX JPN
 #EXTGRP:KIDS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -631,18 +622,21 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157605.ts
 #EXTINF:0,FunpLaNeT
 #EXTGRP:KIDS
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298539.ts
+#EXTINF:0,KIDSTV
+#EXTGRP:KIDS
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165828
 #EXTINF:0,dunia anak
 #EXTGRP:KIDS
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264753.ts
 #EXTINF:0,nickelodeon
 #EXTGRP:KIDS
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162510.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666235.ts
 #EXTINF:0,ZOOMOO
 #EXTGRP:KIDS
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/285308.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165881
 #EXTINF:0,Dreamwork
 #EXTGRP:KIDS
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157610.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165803
 #EXTINF:0,MOONBUG
 #EXTGRP:KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -654,7 +648,7 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162511.ts
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/276564.ts
 #EXTINF:0,nick jr.
 #EXTGRP:KIDS
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165107.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165852
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP:KIDS
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306459.ts
@@ -673,27 +667,36 @@ http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/247448.ts
 #EXTINF:0,HoRee!
 #EXTGRP:KIDS
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264750.ts
+#EXTINF:0,HoRee!(B)
+#EXTGRP:KIDS
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666242.ts
 #EXTINF:0,cinebox animation
 #EXTGRP:KIDS
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/290400.ts
-#EXTINF:0,BBC EARTH
+#EXTINF:0,BBC NEWS
 #EXTGRP:BERITA
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
-#EXTINF:0,EWTN
+http://cool365.xyz:900/live/4160189881/DB4ACD54/29642.ts
+#EXTINF:0,RT English
 #EXTGRP:BERITA
-http://cool365.xyz:900/live/4160189881/DB4ACD54/45067.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666233.ts
 #EXTINF:0,euronews
 #EXTGRP:BERITA
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45037.ts
 #EXTINF:0,ABC Australia
 #EXTGRP:BERITA
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165771.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/191837.ts
+#EXTINF:0,CNN
+#EXTGRP:BERITA
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163978
 #EXTINF:0,FOX NEWS INTERNATIONAL
 #EXTGRP:BERITA
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165810.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/45009.ts
 #EXTINF:0,METRO TV
 #EXTGRP:BERITA
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62224.ts
+#EXTINF:0,BN CHANNEL
+#EXTGRP:BERITA
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:0,SINDONEWS TV
 #EXTGRP:BERITA
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165058.ts
@@ -708,7 +711,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/45031.ts
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0,QWEST
 #EXTGRP:MUSIK
-https://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8
 #EXTINF:0,PRAMBORS
 #EXTGRP:MUSIK
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264761.ts
@@ -744,40 +747,38 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/172421.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/172422.ts
 #EXTINF:0,MTV 90's
 #EXTGRP:MUSIK
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1165912.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165842
 #EXTINF:0,MTV Live
 #EXTGRP:MUSIK
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/304501.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165843
 #EXTINF:0,MTV Hits
 #EXTGRP:MUSIK
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/304387.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/191718.ts
 #EXTINF:0,Musik Indonesia
 #EXTGRP:MUSIK
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165844
 http://cool365.xyz:900/live/4160189881/DB4ACD54/45063.ts
 #EXTINF:0,MUSIC INFORMATION CHANNEL
 #EXTGRP:MUSIK
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306468.ts
+#EXTINF:0,MUSICTV
+#EXTGRP:MUSIK
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165847
 #EXTINF:0,Sportstars
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157589.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/157589.ts
 #EXTINF:0,Sportstars 2
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298548.ts
-#EXTINF:0,CHAMPIONTV 2
-#EXTGRP:SPORT
-http://filex.me:8080/live/7975/7975/302283.ts
+http://iptvtree.net:8080/live/F28312/cc1dc138/298548.ts
 #EXTINF:0,SPOTV
 #EXTGRP:SPORT
-http://filex.me:8080/live/7975/7975/302214.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165867
 #EXTINF:0,SPOTV2
 #EXTGRP:SPORT
-http://filex.me:8080/live/7975/7975/302215.ts
-#EXTINF:0,ETV Live
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165868
+#EXTINF:0,mewatch live 1
 #EXTGRP:SPORT
-http://opplex.ch:8080/live/10071975/10071975/350877.ts
-#EXTINF:0,CHAMPIONTV 3
-#EXTGRP:SPORT
-http://aflaxtv.xyz:8080/live/F15554/Tve5ZWQEd485/298514.ts
+https://tglmp04.akamaized.net/out/v1/9092ef82ee7c4e3daa1dcb1c66c70395/master_1.m3u8
 #EXTINF:0,TNT Sports 1 FHD
 #EXTGRP:SPORT
 https://7pal.short.gy/tntspts1
@@ -790,6 +791,14 @@ https://7pal.short.gy/tntspts3
 #EXTINF:0,TNT Sports 4 FHD
 #EXTGRP:SPORT
 https://7pal.short.gy/tntspts4
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:SPORT
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401666258.ts
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:SPORT
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+#http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1555.ts
+#https://ktpremium.site:443/live/RY318/7777/932573.ts
 #EXTINF:0,TSN 1
 #EXTGRP:SPORT
 https://7pal.short.gy/tsn1ca
@@ -810,40 +819,47 @@ https://7pal.short.gy/tsn5ca
 http://212.102.60.231/BEIN_SPORTS/index.m3u8
 #EXTINF:0,beIN SPORTS 1
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/295289.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165886
 #EXTINF:0,beIN SPORTS 2
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/2540.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165887
 #EXTINF:0,beIN SPORTS 3
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306458.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165888
 #EXTINF:0,beIN SPORTS 4
 #EXTGRP:SPORT
-http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/272464.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165889
 #EXTINF:0,beIN SPORTS 5
 #EXTGRP:SPORT
-http://egaletv.cc:80/live/amine_050182/MfTwEp79/280690.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165890
+#EXTINF:0,W-sport
+#EXTGRP:SPORT
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163949
 #EXTINF:0,astro PremierLeague1
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/146068.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18623.ts
+#https://7pal.short.gy/astross1
 #EXTINF:0,astro PremierLeague2
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306491.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18622.ts
+#https://7pal.short.gy/astross2
 #EXTINF:0,astro Grandstand
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306492.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18622.ts
+#https://7pal.short.gy/astross3
 #EXTINF:0,astro Football
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157558.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18620.ts
+#https://7pal.short.gy/astross4
 #EXTINF:0,astro Sports UHD
 #EXTGRP:SPORT
 http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 #EXTINF:0,ESPN NL
 #EXTGRP:SPORT
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/267209.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=4847
 #EXTINF:0,ESPN US
 #EXTGRP:SPORT
-http://41.205.93.154/ESPN/index.m3u8
+http://cord-cutter.net:8080/live/Ss5DKE/232455/14197.ts
 #EXTINF:0,sky SPORT 1
 #EXTGRP:SPORT
 https://7pal.short.gy/skyspt1nz
@@ -928,6 +944,7 @@ http://cord-cutter.net:8080/live/Ss5DKE/232455/10399.ts
 #EXTINF:0,NBA Live
 #EXTGRP:SPORT
 http://212.102.60.231/NBA_TV/index.m3u8
+#http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/298558.ts
 #EXTINF:0,Golf Plus
 #EXTGRP:SPORT
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666201.ts
@@ -946,33 +963,39 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401666167.ts
 #EXTINF:0,TRACE SportStars HD
 #EXTGRP:SPORT
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,FIGHT SPORTS
+#EXTGRP:SPORT
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165807
 #EXTINF:0,ETV Live
 #EXTGRP:SPORT
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62212.ts
 #EXTINF:0,AWANI
 #EXTGRP:ASTRO MALAY
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157478.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163971
 #EXTINF:0,AEC
 #EXTGRP:ASTRO MALAY
 https://stream1.freetv.fun/astro-aec--c-1.m3u8
 #EXTINF:0,AOD
 #EXTGRP:ASTRO MALAY
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/247413.ts
+#http://iptvtree.net:8080/live/F28312/cc1dc138/247413.ts
 #EXTINF:0,AURA
 #EXTGRP:ASTRO MALAY
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/171986.ts
 #EXTINF:0,ARENA
 #EXTGRP:ASTRO MALAY
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157485.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18632.ts
 #EXTINF:0,ARENA 2
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/13111.ts
+http://116342296971.d4ktv.info:80/live/amine_050182/MfTwEp79/1163656.ts
+#https://ktpremium.site:443/live/RY318/7777/913179.ts
 #EXTINF:0,ARENA BOLA 1
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401550644.ts
+https://stream1.freetv.fun/astro-arena-bola--z-1.m3u8
 #EXTINF:0,ARENA BOLA 2
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401550643.ts
+#http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
 #EXTINF:0,BADMINTON
 #EXTGRP:ASTRO MALAY
 https://stream1.freetv.fun/astro-badminton-1--z-1.m3u8
@@ -988,15 +1011,17 @@ https://ktpremium.site:443/live/RY318/7777/913177.ts
 #EXTINF:0,CERIA
 #EXTGRP:ASTRO MALAY
 http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163670.ts
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/191860.ts
 #EXTINF:0,HUA HEE DAI
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/29655.ts
+http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163677.ts
+#https://ktpremium.site:443/live/RY318/7777/25973.ts
 #EXTINF:0,iQIYI
 #EXTGRP:ASTRO MALAY
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306494.ts
 #EXTINF:0,OASIS
 #EXTGRP:ASTRO MALAY
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157489.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18628.ts
 #EXTINF:0,PRIMA
 #EXTGRP:ASTRO MALAY
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157467.ts
@@ -1008,28 +1033,31 @@ https://stream1.freetv.fun/astro-qj--c-1.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191866.ts
 #EXTINF:0,RIA
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/191867.ts
+https://stream1.freetv.fun/astro-ria--z-1.m3u8
+#https://ktpremium.site:443/live/RY318/7777/912833.ts
 #EXTINF:0,SHOWCHASE
 #EXTGRP:ASTRO MALAY
 http://cool365.xyz:900/live/4160189881/DB4ACD54/191702.ts
+#https://ktpremium.site:443/live/RY318/7777/916399.ts
 #EXTINF:0,SPORTSPLUS
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401600406.ts
+https://ktpremium.site/live/RY318/7777/1010680.ts
 #EXTINF:0,THANGATHIRAI
 #EXTGRP:ASTRO MALAY
 https://ktpremium.site:443/live/RY318/7777/918423.ts
 #EXTINF:0,Tv1
 #EXTGRP:ASTRO MALAY
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/158357.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163917
 #EXTINF:0,Tv2
 #EXTGRP:ASTRO MALAY
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/158355.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163921
 #EXTINF:0,Tv3
 #EXTGRP:ASTRO MALAY
-http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163923.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163923
 #EXTINF:0,Tv6
 #EXTGRP:ASTRO MALAY
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/305280.ts
+#https://ktpremium.site:443/live/RY318/7777/900905.ts
 #EXTINF:0,VINMEEN
 #EXTGRP:ASTRO MALAY
 https://ktpremium.site/live/RY318/7777/1012902.ts
@@ -1041,7 +1069,7 @@ http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163762.ts
 http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 #EXTINF:0,TV9
 #EXTGRP:ASTRO MALAY
-http://egaletv.cc:80/live/amine_050182/MfTwEp79/1163924.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163924
 #EXTINF:0,DUNIA SINEMA
 #EXTGRP:ASTRO MALAY
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -1056,10 +1084,10 @@ https://ktpremium.site:443/live/RY318/7777/1019162.ts
 https://ktpremium.site:443/live/RY318/7777/1019163.ts
 #EXTINF:0,TVS
 #EXTGRP:ASTRO MALAY
-https://ktpremium.site:443/live/RY318/7777/656643.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163947
 #EXTINF:0,OKeY TV
 #EXTGRP:ASTRO MALAY
-http://cool365.xyz:900/live/4160189881/DB4ACD54/13022.ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163914
 #EXTINF:0,SUKAN RTM
 #EXTGRP:ASTRO MALAY
 https://stream1.freetv.fun/rtm-sports--z-1.m3u8
@@ -1078,12 +1106,15 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:0,M 5
 #EXTGRP:SINGAPOR
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+#http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/59296.ts
 #EXTINF:0,M 8
 #EXTGRP:SINGAPOR
 http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+#http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/59293.ts
 #EXTINF:0,M U
 #EXTGRP:SINGAPOR
 http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/6676.ts
 #EXTINF:0,M suria
 #EXTGRP:SINGAPOR
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/59290.ts
