@@ -761,7 +761,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/45063.ts
 #EXTINF:0,MUSIC INFORMATION CHANNEL
 #EXTGRP:MUSIK
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/306468.ts
-#EXTINF:0,MUSICTV
+#EXTINF:0,MUSIC TV
 #EXTGRP:MUSIK
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165847
 #EXTINF:0,Sportstars
