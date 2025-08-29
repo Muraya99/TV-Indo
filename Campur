@@ -990,8 +990,7 @@ http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=116
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62212.ts
 #EXTINF:0,AWANI
 #EXTGRP:ASTRO MALAY
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18618.ts
-#http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163971
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163971
 #EXTINF:0,AEC
 #EXTGRP:ASTRO MALAY
 https://stream1.freetv.fun/astro-aec--c-1.m3u8
