@@ -258,6 +258,21 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 #EXTINF:0,cinebox blockbuster
 #EXTGRP:MOVIE
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
+#EXTINF:0,cinebox
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
+#EXTINF:0,cinebox
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119433.ts
+#EXTINF:0,cinebox
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119434.ts
+#EXTINF:0,cinebox
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119435.ts
+#EXTINF:0,cinebox
+#EXTGRP:MOVIE
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119437.ts
 #EXTINF:0,STAR MOVIES
 #EXTGRP:MOVIE
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=277339
@@ -373,6 +388,9 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:0,TV CHOSUN 2
 #EXTGRP:ENTERTAINT
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:0,docubox
+#EXTGRP:ENTERTAINT
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119439.ts
 #EXTINF:0,NATIONAL GEOGRAPHIC
 #EXTGRP:IPTEK
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165094.ts
@@ -423,7 +441,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165834
 #EXTINF:0,BBC EARTH
 #EXTGRP:IPTEK
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165885
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18611.ts
+#http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1165885
 #EXTINF:0,animal planet
 #EXTGRP:IPTEK
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401666279.ts
@@ -845,7 +864,7 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18622.ts
 #https://7pal.short.gy/astross2
 #EXTINF:0,astro Grandstand
 #EXTGRP:SPORT
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18622.ts
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18621.ts
 #https://7pal.short.gy/astross3
 #EXTINF:0,astro Football
 #EXTGRP:SPORT
@@ -971,7 +990,8 @@ http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=116
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62212.ts
 #EXTINF:0,AWANI
 #EXTGRP:ASTRO MALAY
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163971
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18618.ts
+#http://egaletv.cc:80/play/live.php?mac=00:1A:79:A1:DE:E8&extension=ts&stream=1163971
 #EXTINF:0,AEC
 #EXTGRP:ASTRO MALAY
 https://stream1.freetv.fun/astro-aec--c-1.m3u8
